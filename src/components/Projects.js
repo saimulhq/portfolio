@@ -14,7 +14,8 @@ import { projects } from '../mappings/projects';
 const useStyles = makeStyles(() => ({
     root: {
         border: 'none',
-        boxShadow: 'none'
+        boxShadow: 'none',
+        minHeight: '100vh'
     },
     list: {
         width: '100%',

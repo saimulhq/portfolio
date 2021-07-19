@@ -16,7 +16,8 @@ const useStyles = makeStyles(() => ({
     root: {
         border: 'none',
         boxShadow: 'none',
-        height: 550
+        height: 550,
+        minHeight: '100vh'
     },
     list: {
         width: '100%',

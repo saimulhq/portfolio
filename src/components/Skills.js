@@ -17,7 +17,8 @@ import Chip from '@material-ui/core/Chip';
 const useStyles = makeStyles(() => ({
     root: {
         border: 'none',
-        boxShadow: 'none'
+        boxShadow: 'none',
+        minHeight: '100vh'
     },
     innerCard: {
         border: 'none',

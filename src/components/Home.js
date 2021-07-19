@@ -13,7 +13,8 @@ const useStyles = makeStyles({
         flexGrow: 1,
         border: 'none',
         boxShadow: 'none',
-        height: 500
+        height: 500,
+        minHeight: '100vh'
     },
     outerCard: {
         border: 'none',
