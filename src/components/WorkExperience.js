@@ -17,7 +17,7 @@ const useStyles = makeStyles(() => ({
         border: 'none',
         boxShadow: 'none',
         height: 550,
-        minHeight: '100vh'
+        minHeight: 'inherit'
     },
     list: {
         width: '100%',
