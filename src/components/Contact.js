@@ -17,7 +17,7 @@ const useStyles = makeStyles({
         boxShadow: 'none',
         height: 550,
         maxWidth: 600,
-        minHeight: 'inherit'
+        minHeight: '100vh'
     },
     form: {
         maxWidth: 700
