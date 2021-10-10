@@ -47,10 +47,8 @@ const Home = () => {
                         life learning new technologies and
                         experimenting with them in my everyday life.
                         Currently I am working as a Full Stack
-                        Developer at{' '}
-                        <Link href={links['Tecnotree']}>
-                            Tecnotree
-                        </Link>
+                        Software Engineer at{' '}
+                        <Link href={links['Nokia']}>Nokia</Link>
                         .
                         <br />
                         <br />I completed my <b>

@@ -1,6 +1,7 @@
 // all the links used in the project
 export const links = {
     Tecnotree: 'http://www.tecnotree.com/',
+    Nokia: 'http://www.nokia.com',
     Cloubi: 'http://www.cloubi.com/',
     bKash: 'http://www.bkash.com/',
     TUNI: 'http://www.tuni.fi/en',

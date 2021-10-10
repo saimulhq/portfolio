@@ -3,11 +3,20 @@ import { links } from './links';
 // list of my work experience
 export const works = [
     {
+        title: 'Full Stack Software Engineer',
+        company: 'Nokia Networks and Solutions',
+        link: links['Nokia'],
+        location: 'Espoo, Finland',
+        period: 'October 2021 - Present',
+        fileName: '',
+        file: ''
+    },
+    {
         title: 'Junior Software Engineer (Full Stack Software Developer)',
         company: 'Tecnotree Corporation',
         link: links['Tecnotree'],
         location: 'Tampere, Finland',
-        period: 'August 2020 - Present',
+        period: 'August 2020 - September 2021',
         fileName: 'Certificate of Recognition',
         file: links['COR']
     },
