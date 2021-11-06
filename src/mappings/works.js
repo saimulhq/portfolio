@@ -4,7 +4,7 @@ import { links } from './links';
 export const works = [
     {
         title: 'Full Stack Software Engineer',
-        company: 'Nokia Networks and Solutions',
+        company: 'Nokia Solutions and Networks',
         link: links['Nokia'],
         location: 'Espoo, Finland',
         period: 'October 2021 - Present',
@@ -17,7 +17,7 @@ export const works = [
         link: links['Tecnotree'],
         location: 'Tampere, Finland',
         period: 'August 2020 - September 2021',
-        fileName: 'Certificate of Recognition',
+        fileName: 'Letter of Recognition',
         file: links['COR']
     },
     {
