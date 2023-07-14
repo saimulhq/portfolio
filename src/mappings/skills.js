@@ -41,6 +41,7 @@ export const skills = {
     ],
     'Message Queing Service': ['Apache Kafka'],
     'Development Tools': [
+        'IntelliJ IDEA',
         'Eclipse',
         'Netbeans',
         'CodeBlocks',

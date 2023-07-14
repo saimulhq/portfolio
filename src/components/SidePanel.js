@@ -34,8 +34,11 @@ const SidePanel = () => {
                 <Typography variant="h6" color="textPrimary">
                     Sheikh Bin Enam
                 </Typography>
-                <Typography variant="subtitle1" color="textPrimary">
-                    Full Stack Software Developer
+                <Typography variant="subtitle2" color="textPrimary">
+                    Senior Full Stack Software Developer
+                </Typography>
+                <Typography variant="caption" color="textPrimary">
+                    Specialized in Backend Development
                 </Typography>
             </CardContent>
         </Card>

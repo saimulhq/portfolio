@@ -16,7 +16,7 @@ const useStyles = makeStyles(() => ({
     root: {
         border: 'none',
         boxShadow: 'none',
-        height: 550,
+        //height: 550,
         minHeight: '100vh'
     },
     list: {
@@ -106,6 +106,61 @@ const WorkExperience = () => {
                                                     {work.period}
                                                 </Typography>
                                                 <br />
+                                                <Typography
+                                                    component="span"
+                                                    variant="body2"
+                                                    className={
+                                                        classes.inline
+                                                    }
+                                                    color="textPrimary"
+                                                >
+                                                    Project:{' '}
+                                                    {work.project}
+                                                </Typography>
+                                                <br />
+                                                <Typography
+                                                    component="span"
+                                                    variant="body2"
+                                                    className={
+                                                        classes.inline
+                                                    }
+                                                    color="textPrimary"
+                                                >
+                                                    Description:{' '}
+                                                    {work.description}
+                                                </Typography>
+                                                <br />
+                                                <Typography
+                                                    component="span"
+                                                    variant="body2"
+                                                    className={
+                                                        classes.inline
+                                                    }
+                                                    color="textPrimary"
+                                                >
+                                                    Responsibilies:{' '}
+                                                    <ul
+                                                        style={{
+                                                            listStyleType:
+                                                                'square'
+                                                        }}
+                                                    >
+                                                        {work.responsibilities.map(
+                                                            (a) => {
+                                                                {
+                                                                    return (
+                                                                        <li>
+                                                                            {
+                                                                                a
+                                                                            }
+                                                                        </li>
+                                                                    );
+                                                                }
+                                                            }
+                                                        )}
+                                                    </ul>
+                                                </Typography>
+
                                                 <Typography
                                                     component="span"
                                                     variant="body2"

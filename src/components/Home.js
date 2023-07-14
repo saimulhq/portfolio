@@ -42,12 +42,12 @@ const Home = () => {
                     >
                         Hi, I am Sheikh Saimul Haque Nazeef Bin Enam
                         a.k.a <b>Sheikh</b>. I am a{' '}
-                        <b>Full Stack Software Developer</b> always
-                        open to new challenges. I have dedicated my
-                        life learning new technologies and
-                        experimenting with them in my everyday life.
-                        Currently I am working as a Full Stack
-                        Software Engineer at{' '}
+                        <b>Senior Full Stack Software Developer</b>{' '}
+                        always open to new challenges. I have
+                        dedicated my life learning new technologies
+                        and experimenting with them in my everyday
+                        life. Currently I am working as a Senior Full
+                        Stack Software Engineer at{' '}
                         <Link href={links['Nokia']}>Nokia</Link>
                         .
                         <br />

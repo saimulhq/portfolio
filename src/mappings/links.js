@@ -15,7 +15,7 @@ export const links = {
     DevOps: 'http://github.com/saimulhq/devops-project',
     Plagiar: 'http://github.com/saimulhq/plagiar',
     MS_Thesis: 'http://trepo.tuni.fi/handle/10024/121626',
-    CV: '/files/cv_sheikh_16_05_22.pdf',
+    CV: '/files/cv_sheikh_14_07_23.pdf',
     COR: '/files/certificate_of_recognition.pdf',
     LOR: '/files/letter_of_recommendation.pdf'
 };
