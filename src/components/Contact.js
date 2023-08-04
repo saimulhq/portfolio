@@ -117,10 +117,10 @@ const Contact = () => {
 
         try {
             const response = await emailjs.sendForm(
-                'service_642uenk',
-                'template_mh9jn76',
+                'service_v9sjkrn',
+                'template_bh09a9k',
                 event.target,
-                'user_nINnOetbRqeNgoUGlGqgn'
+                'PA_V5f1yoxvh_0Qjt'
             );
 
             if (response.status === 200) {
