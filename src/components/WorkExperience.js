@@ -7,7 +7,7 @@ import ListItemText from '@material-ui/core/ListItemText';
 import Typography from '@material-ui/core/Typography';
 import Card from '@material-ui/core/Card';
 import { CardContent } from '@material-ui/core';
-import { Link as RouterLink } from 'react-router-dom';
+// import { Link as RouterLink } from 'react-router-dom';
 import Link from '@material-ui/core/Link';
 import { works } from '../mappings/works';
 
@@ -161,7 +161,8 @@ const WorkExperience = () => {
                                                     </ul>
                                                 </Typography>
 
-                                                <Typography
+                                                {/* commenting out for now, needs re-work */}
+                                                {/* <Typography
                                                     component="span"
                                                     variant="body2"
                                                     className={
@@ -177,7 +178,7 @@ const WorkExperience = () => {
                                                             work.fileName
                                                         }
                                                     </RouterLink>
-                                                </Typography>
+                                                </Typography> */}
                                             </React.Fragment>
                                         }
                                     />
