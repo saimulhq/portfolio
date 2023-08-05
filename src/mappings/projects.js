@@ -33,9 +33,9 @@ export const projects = [
     },
     {
         title: 'Friend Finder',
-        link: links['FriendFinder'],
+        link: '',
         description:
-            'This project is a social networking site with the features of adding new friends, deleting friends, creating discussions, update status and removing user account. (username: saimulhq, password: iit12345)',
+            'This project is a social networking site with the features of adding new friends, deleting friends, creating discussions, update status and removing user account.',
         platform: 'Django, PostgreSQL'
     },
     {
