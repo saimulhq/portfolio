@@ -6,7 +6,7 @@ export const projects = [
         title: 'Tecnotree Digital Resource Manager Bulk Process',
         link: '',
         description:
-            'Worked on the backend of this project for Tecnotree, it processes the creation, deletion, updation and bundling of digital resources (SIM, MSISDN, IP etc) in bulk and keep track of these generated resources (success, failures, reason of failure etc). On successful creation the bulk process sends Kakfa events, which other systems can listen to and perform actions based on it.',
+            'Worked on the backend of this project for Tecnotree, it processes the creation, deletion, updation and bundling of digital resources (SIM, MSISDN, IP etc) in bulk and keep track of these generated resources (success, failures, reason of failure etc). On successful creation the bulk process sends Kafka events, which other systems can listen to and perform actions based on it.',
         platform:
             'ExpressJS, MongoDB, Apache Kafka, Docker, Protobuf, grpc, Jenkins, SonarQube'
     },
