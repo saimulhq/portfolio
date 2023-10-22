@@ -40,8 +40,8 @@ const Home = () => {
                         component="span"
                         display="block"
                     >
-                        Hi, I am Sheikh Saimul Haque Nazeef Bin Enam
-                        a.k.a <b>Sheikh</b>. I am a{' '}
+                        Hi, I am Sheikh Bin Enam a.k.a <b>Sheikh</b>.
+                        I am an experienced{' '}
                         <b>Senior Full Stack Software Developer</b>{' '}
                         always open to new challenges. I have
                         dedicated my life learning new technologies

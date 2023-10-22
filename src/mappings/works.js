@@ -21,6 +21,7 @@ export const works = [
             'Acting as the lead product security expert',
             'Generating Anchor, Trivy, VAMS for detecting vulnerabilities and fixing them',
             'Fixing Sonarqube issues for the backend',
+            'Guiding junior developers within the team',
             'Take part in release activities time to time',
             'Time to time upgrading 3rd party libraries being used in the backend',
             'Work on the UI when needed',

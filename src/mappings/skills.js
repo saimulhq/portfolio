@@ -20,6 +20,7 @@ export const skills = {
         'Django',
         'HTML',
         'CSS',
+        'TS',
         'Bootstrap',
         'jQuery'
     ],

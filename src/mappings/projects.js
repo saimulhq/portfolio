@@ -3,6 +3,14 @@ import { links } from './links';
 // list of my projects
 export const projects = [
     {
+        title: 'Nokia Orchestration OrderHub (Business Application)',
+        link: '',
+        description:
+            'OrderHub is used to create different types of orders, managing and monitoring orders and it is also used for managing manual tasks.',
+        platform:
+            'Spring Boot (Java 17), ReactJS, MongoDB, Docker, Kubernetes, Jenkins, SonarQube'
+    },
+    {
         title: 'Tecnotree Digital Resource Manager Bulk Process',
         link: '',
         description:
