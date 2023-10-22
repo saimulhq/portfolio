@@ -57,7 +57,7 @@ export const works = [
     },
     {
         title: 'Software Developer Trainee and Thesis Worker',
-        company: 'Cloubi Ltd.',
+        company: 'Cloubi Ltd. (Part of Otava Publishing Company)',
         link: links['Cloubi'],
         location: 'Tampere, Finland',
         period: 'May 2019 - February 2020',
