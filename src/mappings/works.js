@@ -4,7 +4,7 @@ import { links } from './links';
 export const works = [
     {
         title: 'Senior Full Stack Software Engineer',
-        company: 'Nokia Solutions and Networks',
+        company: 'Nokia Solutions and Networks Ltd.',
         link: links['Nokia'],
         location: 'Espoo, Finland',
         period: 'October 2021 - Present',
