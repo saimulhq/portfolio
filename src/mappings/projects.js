@@ -8,7 +8,7 @@ export const projects = [
         description:
             'OrderHub is used to create different types of orders, managing and monitoring orders and it is also used for managing manual tasks.',
         platform:
-            'Spring Boot (Java 17), ReactJS, MongoDB, Docker, Kubernetes, Jenkins, SonarQube'
+            'Spring Boot (Java 17), ReactJS, TypeScript, MongoDB, Docker, Kubernetes, Jenkins, SonarQube'
     },
     {
         title: 'Tecnotree Digital Resource Manager Bulk Process',
