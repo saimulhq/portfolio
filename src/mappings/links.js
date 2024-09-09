@@ -1,6 +1,7 @@
 // all the links used in the project
 export const links = {
     Tecnotree: 'http://www.tecnotree.com/',
+    Visma: 'https://www.visma.fi/yritykset/visma-amplio-oy',
     Nokia: 'http://www.nokia.com',
     Cloubi: 'http://www.cloubi.com/',
     bKash: 'http://www.bkash.com/',
@@ -14,7 +15,7 @@ export const links = {
     DevOps: 'http://github.com/saimulhq/devops-project',
     Plagiar: 'http://github.com/saimulhq/plagiar',
     MS_Thesis: 'http://trepo.tuni.fi/handle/10024/121626',
-    CV: '/files/cv_sheikh_30_10_23.pdf',
+    CV: '/files/cv_sheikh_10-09-24.pdf',
     COR: '/files/certificate_of_recognition.pdf',
     LOR: '/files/letter_of_recommendation.pdf'
 };

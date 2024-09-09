@@ -41,14 +41,15 @@ const Home = () => {
                         display="block"
                     >
                         Hi, I am Sheikh Bin Enam a.k.a <b>Sheikh</b>.
-                        I am an experienced{' '}
-                        <b>Senior Full Stack Software Developer</b>{' '}
-                        always open to new challenges. I have
-                        dedicated my life learning new technologies
-                        and experimenting with them in my everyday
-                        life. Currently I am working as a Senior Full
+                        I am an experienced <b>Senior Full Stack Software Engineer</b> 
+                        {' '}specializing in developing backend solutions. 
+                        Throughout my career, I have demonstrated leadership skills, 
+                        fostered innovation, and successfully delivered complex applications. 
+                        I am highly regarded for my understanding of software architecture 
+                        and my commitment to staying up to date with the latest technologies.
+                        Currently I am working as a Senior Full
                         Stack Software Engineer at{' '}
-                        <Link href={links['Nokia']}>Nokia</Link>
+                        <Link href={links['Visma']}>Visma</Link>
                         .
                         <br />
                         <br />I completed my <b>

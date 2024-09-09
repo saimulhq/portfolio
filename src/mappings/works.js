@@ -3,12 +3,40 @@ import { links } from './links';
 // list of my work experience
 export const works = [
     {
+        title: 'Senior Software Developer',
+        company: 'Visma Amplio Ltd.',
+        link: links['Visma'],
+        location: 'Helsinki, Finland',
+        period: 'January 2024 - Present',
+        project: 'Fikuro ERP',
+        description:
+            'Fikuro ERP serves SMEs in Finland, it allows users to record production, do warehouse transactions, create sales offers, sales orders and purchase orders, send invoices to various FMS systems and keep track of the stock.',
+        responsibilities: [
+            'Leading a team of six people',
+            'Focusing on feature planning, design and architecture',
+            'Focusing on backend development',
+            'REST APIs and feature development',
+            'Writing unit tests and integration tests',
+            'Practicing Scrum within the team',
+            'Responsible for creating event based solution for recording production using RabbitMQ',
+            'Work on the UI when needed',
+            'Fixing Sonarqube issues for the backend',
+            'Guiding junior developers within the team',
+            'Take part in release activities time to time',
+            'Time to time upgrading 3rd party libraries being used in the backend',
+            'Work on the UI when needed',
+            'Using tools like Jira, Confluence, Slack and Google Meet'
+        ],
+        fileName: '',
+        file: ''
+    },
+    {
         title: 'Senior Full Stack Software Engineer',
         company: 'Nokia Solutions and Networks Ltd.',
         link: links['Nokia'],
         location: 'Espoo, Finland',
-        period: 'October 2021 - Present',
-        project: 'Nokia Orchestration OrderHub',
+        period: 'October 2021 - November 2023',
+        project: 'Nokia Orchestration OrderHub (Business Application)',
         description:
             'OrderHub is used to create different types of orders, managing and monitoring orders and it is also used for managing manual tasks.',
         responsibilities: [

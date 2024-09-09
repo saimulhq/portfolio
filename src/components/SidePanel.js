@@ -35,7 +35,7 @@ const SidePanel = () => {
                     Sheikh Bin Enam
                 </Typography>
                 <Typography variant="subtitle2" color="textPrimary">
-                    Senior Full Stack Software Developer
+                    Senior Full Stack Software Engineer
                 </Typography>
                 <Typography variant="caption" color="textPrimary">
                     Specialized in Backend Development

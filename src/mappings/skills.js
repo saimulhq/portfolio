@@ -13,6 +13,7 @@ export const skills = {
     ],
     'Web Development': [
         'ReactJS',
+        'AngularJS',
         'NodeJS',
         'ExpressJS',
         'Spring Boot',
@@ -28,6 +29,7 @@ export const skills = {
         'Docker',
         'Kubernetes',
         'Gitlab-CI',
+        'GitHub Actions',
         'Jenkins',
         'Rancher',
         'SonarQube'
@@ -38,9 +40,10 @@ export const skills = {
         'MySQL',
         'Microsoft SQL',
         'PostgreSQL',
+        'MariaDB',
         'MongoDB'
     ],
-    'Message Queing Service': ['Apache Kafka'],
+    'Message Queing Service': ['Apache Kafka', 'RabbitMQ'],
     'Development Tools': [
         'IntelliJ IDEA',
         'Eclipse',
