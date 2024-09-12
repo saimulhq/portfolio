@@ -12,20 +12,7 @@ export const works = [
         description:
             'Fikuro ERP serves SMEs in Finland, it allows users to record production, do warehouse transactions, create sales offers, sales orders and purchase orders, send invoices to various FMS systems and keep track of the stock.',
         responsibilities: [
-            'Leading a team of six people',
-            'Focusing on feature planning, design and architecture',
-            'Focusing on backend development',
-            'REST APIs and feature development',
-            'Writing unit tests and integration tests',
-            'Practicing Scrum within the team',
-            'Responsible for creating event based solution for recording production using RabbitMQ',
-            'Work on the UI when needed',
-            'Fixing Sonarqube issues for the backend',
-            'Guiding junior developers within the team',
-            'Take part in release activities time to time',
-            'Time to time upgrading 3rd party libraries being used in the backend',
-            'Work on the UI when needed',
-            'Using tools like Jira, Confluence, Slack and Google Meet'
+            'Updated in CV'
         ],
         fileName: '',
         file: ''
@@ -42,7 +29,7 @@ export const works = [
         responsibilities: [
             'Focusing mainly on backend development',
             'REST APIs and feature development',
-            'Writing unit tests',
+            'Writing unit tests and integration tests',
             'Practicing SAFe within team',
             'Responsible for migrating Java 11 to Java 17',
             'Responsible for migrating Spring Boot 2 to Spring Boot 3',
@@ -71,7 +58,7 @@ export const works = [
             'Focusing mainly on backend development',
             'Single-handedly worked on the the backend of the project from designing the architecture to coding, testing and deployment',
             'REST APIs and feature development',
-            'Writing unit tests',
+            'Writing unit tests and integration tests',
             'Practicing Scrum within the team',
             'Responsible for TM Forum Open API certification for the product APIs',
             'Fixing Sonarqube issues for the backend',
@@ -96,7 +83,7 @@ export const works = [
             'Single-handedly worked on the backend of the project as a proof of concept for my Master’s Thesis',
             'Thesis title: "Optimizing the Efficiency of the Data Analytics Framework Using Microservice Architecture"',
             'REST APIs and feature development',
-            'Writing unit tests',
+            'Writing unit tests and integration tests',
             'Practicing Scrum within the team',
             'Fixing Sonarqube issues',
             'Using tools like Jira, Confluence, Slack, and Google Meet'
@@ -134,7 +121,7 @@ export const works = [
         responsibilities: [
             'Single-handedly worked on the backend of the project from designing the architecture to coding and testing',
             'REST APIs and feature development',
-            'Writing unit tests',
+            'Writing unit tests and integration tests',
             'Fixing Sonarqube issues',
             'Using tools like Jira, Confluence, Slack, and Google Meet'
         ],
