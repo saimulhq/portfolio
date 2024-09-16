@@ -47,8 +47,7 @@ const Home = () => {
                         fostered innovation, and successfully delivered complex applications. 
                         I am highly regarded for my understanding of software architecture 
                         and my commitment to staying up to date with the latest technologies.
-                        Currently I am working as a Senior Full
-                        Stack Software Engineer at{' '}
+                        Currently I am working as a Senior Software Developer at{' '}
                         <Link href={links['Visma']}>Visma</Link>
                         .
                         <br />
