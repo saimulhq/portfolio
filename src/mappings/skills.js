@@ -12,10 +12,10 @@ export const skills = {
         'R'
     ],
     'Web Development': [
-        'ReactJS',
-        'AngularJS',
+        'React',
+        'Angular',
         'NodeJS',
-        'ExpressJS',
+        'Express',
         'Spring Boot',
         'ASP.Net',
         'Django',

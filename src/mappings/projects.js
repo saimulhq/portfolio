@@ -8,7 +8,7 @@ export const projects = [
         description:
             'OrderHub is used to create different types of orders, managing and monitoring orders and it is also used for managing manual tasks.',
         platform:
-            'Spring Boot (Java 17), ReactJS, TypeScript, MongoDB, Docker, Kubernetes, Jenkins, SonarQube'
+            'Spring Boot (Java 17), React, TypeScript, MongoDB, Docker, Kubernetes, Jenkins, SonarQube'
     },
     {
         title: 'Tecnotree Digital Resource Manager Bulk Process',
@@ -16,7 +16,7 @@ export const projects = [
         description:
             'Worked on the backend of this project for Tecnotree, it processes the creation, deletion, updation and bundling of digital resources (SIM, MSISDN, IP etc) in bulk and keep track of these generated resources (success, failures, reason of failure etc). On successful creation the bulk process sends Kafka events, which other systems can listen to and perform actions based on it.',
         platform:
-            'ExpressJS, MongoDB, Apache Kafka, Docker, Protobuf, grpc, Jenkins, SonarQube'
+            'Express, MongoDB, Apache Kafka, Docker, Protobuf, grpc, Jenkins, SonarQube'
     },
     {
         title: 'Expense Manager',
@@ -30,14 +30,14 @@ export const projects = [
         link: '',
         description:
             'This project has been developed for HIAB, a subsidiary of Cargotec Ltd for registering the purchase date of the crane parts sold by HIAB and keeping track of warranty of the parts.',
-        platform: 'ExpressJS, ReactJS, PostgreSQL'
+        platform: 'Express, React, PostgreSQL'
     },
     {
         title: 'Photo Gallery',
         link: links['PhotoGallery'],
         description:
             'This is a front end application made with ReactJS and Material UI that loads images from a Fake Mock Rest API.',
-        platform: 'ReactJS'
+        platform: 'React'
     },
     {
         title: 'Friend Finder',
