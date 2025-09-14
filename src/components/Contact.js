@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import emailjs from 'emailjs-com';
+import { useState } from 'react';
+import emailjs from '@emailjs/browser';
 import MuiAlert from '@material-ui/lab/Alert';
 import Collapse from '@material-ui/core/Collapse';
 import TextField from '@material-ui/core/TextField';
@@ -120,7 +120,9 @@ const Contact = () => {
                 'service_v9sjkrn',
                 'template_bh09a9k',
                 event.target,
-                'PA_V5f1yoxvh_0Qjt'
+                {
+                    publicKey: 'xDyZwevMBFK2WCSqh',
+                }
             );
 
             if (response.status === 200) {
